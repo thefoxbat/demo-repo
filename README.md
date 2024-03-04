@@ -1,4 +1,4 @@
 ## DEMONSTRATION
 This is the first line of the README file. 
-
-Annother line in the file.
+Another line in the file.
+Created for demonstration purposes. 
